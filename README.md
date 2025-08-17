@@ -28,5 +28,5 @@ HAVING
 ## 📸 Dashboard Preview
 
 Below is a snapshot of the Looker Studio dashboard used in this project, visualizing anomalies in smart meter energy data by region and device type.
-<img width="1280" height="719" alt="Screenshot 2025-08-14 at 2 48 06 AM" src="https://github.com/user-attachments/assets/0a3ad3f4-60cd-49e2-9fe0-b304e074d33a" />
+<img width="1208" height="657" alt="Image" src="https://github.com/user-attachments/assets/b2d3f0a9-3e33-4f48-9080-aca079c5fffc" />
 <img width="1280" height="832" alt="Screenshot 2025-08-14 at 2 47 53 AM" src="https://github.com/user-attachments/assets/459ad47b-f536-467e-811b-aa892c8f8da4" />
