@@ -27,8 +27,8 @@ HAVING
 
 ## 📊 Interactive Dashboard
 
-For a live view of the energy analytics dashboard,
-[click here to open in Looker Studio](https://lookerstudio.google.com/s/n_D65kvAhY8).
+For a live view of the energy analytics dashboard,  
+[Click here to open in Looker Studio](https://lookerstudio.google.com/s/n_D65kvAhY8)
 
 ## 📊 Dashboard Preview
 
