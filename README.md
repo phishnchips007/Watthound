@@ -25,8 +25,12 @@ GROUP BY
 HAVING 
   AVG(Daily_Usage) > 2 * (SELECT AVG(Daily_Usage) FROM Sheet1)
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
-Below is a snapshot of the Looker Studio dashboard used in this project, visualizing anomalies in smart meter energy data by region and device type.
-<img width="1208" height="657" alt="Image" src="https://github.com/user-attachments/assets/b2d3f0a9-3e33-4f48-9080-aca079c5fffc" />
-<img width="1280" height="832" alt="Screenshot 2025-08-14 at 2 47 53 AM" src="https://github.com/user-attachments/assets/459ad47b-f536-467e-811b-aa892c8f8da4" />
+Here are the screenshots of the Looker Studio dashboard:
+
+![Screenshot 1](https://github.com/phishnchips007/Watthound/blob/main/watt1.png?raw=true)
+
+![Screenshot 2](https://github.com/phishnchips007/Watthound/blob/main/watt2.png?raw=true)
+
+![Screenshot 3](https://github.com/phishnchips007/Watthound/blob/main/watt3.png?raw=true)
