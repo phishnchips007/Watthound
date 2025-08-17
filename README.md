@@ -29,8 +29,6 @@ HAVING
 
 Here are the screenshots of the Looker Studio dashboard:
 
-![Screenshot 1](https://github.com/phishnchips007/Watthound/blob/main/watt1.png?raw=true)
-
-![Screenshot 2](https://github.com/phishnchips007/Watthound/blob/main/watt2.png?raw=true)
-
-![Screenshot 3](https://github.com/phishnchips007/Watthound/blob/main/watt3.png?raw=true)
+![Screenshot 1](https://github.com/phishnchips007/Watthound/raw/main/watt1.png)
+![Screenshot 2](https://github.com/phishnchips007/Watthound/raw/main/watt2.png)
+![Screenshot 3](https://github.com/phishnchips007/Watthound/raw/main/watt3.png)
